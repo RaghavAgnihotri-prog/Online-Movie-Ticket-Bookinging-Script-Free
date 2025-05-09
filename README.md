@@ -25,7 +25,7 @@ The **Online Movie Ticket Booking Script** is a fully functional theatre booking
   - SEO-friendly architecture for improved search engine visibility.
   
 </details>
-
+# Apna program
 ## SEO Friendly Design 🌐
 Our ticket booking script is optimized for search engines to enhance visibility. Below is a screenshot demonstrating its SEO-friendly structure:
 
